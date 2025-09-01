@@ -10,6 +10,8 @@ print(name)
 
 twenty_three = 23
 print(twenty_three)
+number_zero = 0
+print(number_zero)
 
 #List
 print()
